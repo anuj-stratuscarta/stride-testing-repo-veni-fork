@@ -25,4 +25,11 @@
         <shortDescription>EC-0003</shortDescription>
         <value>EC-0003: Invalid input. Please check Documentation.</value>
     </labels>
+    <labels>
+        <fullName>STRIDE_TEST_MD21</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stride test MD21</shortDescription>
+        <value>Stride test: scoped promote past an untypeable file</value>
+    </labels>
 </CustomLabels>
