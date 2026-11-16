@@ -1,0 +1,23 @@
+{
+  "slug": "t-ps",
+  "name": "t-ps",
+  "createdAt": "2026-11-16T13:01:20.954Z",
+  "updatedAt": "2026-11-16T13:01:20.954Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "PermissionSet",
+          "fullName": "MACTEST_Access"
+        }
+      ]
+    }
+  },
+  "branch": "feature/t-ps",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/t-ps.json",
+    "force-app/main/default/permissionsets/MACTEST_Access.permissionset-meta.xml"
+  ]
+}
