@@ -26,6 +26,13 @@
         <value>EC-0003: Invalid input. Please check Documentation.</value>
     </labels>
     <labels>
+        <fullName>STRIDE_TEST_AUTO</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stride test AUTO</shortDescription>
+        <value>Stride test: local CLI auto hop</value>
+    </labels>
+    <labels>
         <fullName>STRIDE_TEST_MD21</fullName>
         <language>en_US</language>
         <protected>false</protected>
