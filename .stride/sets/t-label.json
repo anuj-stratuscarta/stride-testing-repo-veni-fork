@@ -1,0 +1,23 @@
+{
+  "slug": "t-label",
+  "name": "t-label",
+  "createdAt": "2026-11-16T13:02:34.673Z",
+  "updatedAt": "2026-11-16T13:02:34.673Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "CustomLabel",
+          "fullName": "EC_0001"
+        }
+      ]
+    }
+  },
+  "branch": "feature/t-label",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/t-label.json",
+    "force-app/main/default/labels/CustomLabels.labels-meta.xml"
+  ]
+}
