@@ -33,6 +33,13 @@
         <value>Stride test: local CLI auto hop</value>
     </labels>
     <labels>
+        <fullName>STRIDE_TEST_AUTO2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stride test AUTO2</shortDescription>
+        <value>Stride test: auto hop after sparse clone fix</value>
+    </labels>
+    <labels>
         <fullName>STRIDE_TEST_MD21</fullName>
         <language>en_US</language>
         <protected>false</protected>
