@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>STRIDE_TEST_MD21</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Stride test MD21</shortDescription>
+        <value>Stride test: scoped promote past an untypeable file</value>
+    </labels>
+</CustomLabels>
