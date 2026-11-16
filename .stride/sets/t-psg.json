@@ -1,0 +1,23 @@
+{
+  "slug": "t-psg",
+  "name": "t-psg",
+  "createdAt": "2026-11-16T13:00:13.700Z",
+  "updatedAt": "2026-11-16T13:00:13.700Z",
+  "version": 1,
+  "lanes": {
+    "metadata": {
+      "components": [
+        {
+          "type": "PermissionSetGroup",
+          "fullName": "MACTEST_PSG"
+        }
+      ]
+    }
+  },
+  "branch": "feature/t-psg",
+  "baseBranch": "main",
+  "writtenPaths": [
+    ".stride/sets/t-psg.json",
+    "force-app/main/default/permissionsetgroups/MACTEST_PSG.permissionsetgroup-meta.xml"
+  ]
+}
